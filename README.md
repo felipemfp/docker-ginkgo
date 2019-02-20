@@ -1,5 +1,10 @@
-# ginkgo-docker
-Ginkgo in Docker :whale:
+
+
+<p align="center">
+  <img width="200" src="https://pbs.twimg.com/media/CLxCZpGUcAAmEsY.png" />
+  <br/>
+  Ginkgo in Docker
+</p>
 
 ### Usage
 
